@@ -1,6 +1,6 @@
 <!-- PROJECT BANNER -->
 <p align="center">
-  <img src="./front/public/logo_ferrisforge.png" alt="FerrisForge" width="100" />
+  <img src="./webapp/public/logo_ferrisforge.png" alt="FerrisForge" width="100" />
 </p>
 
 <p align="center">
